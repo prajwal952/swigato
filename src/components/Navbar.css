@@ -1,0 +1,32 @@
+/* Navbar.css */
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: #ff6347;
+    color: #fff;
+  }
+  
+  /*
+  .navbar__left {
+    flex: 1; 
+  }
+
+  */
+  
+  .navbar__logo {
+    width: 40px; /* Adjust size as needed */
+    height: 40px;
+  }
+  
+  .navbar__right {
+    display: flex;
+  }
+  
+  .navbar__button {
+    margin-left: 20px;
+    text-decoration: none;
+    color: #fff;
+  }
+  
